@@ -1,0 +1,110 @@
+[
+    {
+      "id": "go",
+      "label": "go",
+      "value": 518,
+      "color": "hsl(72, 70%, 50%)"
+    },
+    {
+      "id": "css",
+      "label": "css",
+      "value": 550,
+      "color": "hsl(161, 70%, 50%)"
+    },
+    {
+      "id": "make",
+      "label": "make",
+      "value": 414,
+      "color": "hsl(278, 70%, 50%)"
+    },
+    {
+      "id": "erlang",
+      "label": "erlang",
+      "value": 568,
+      "color": "hsl(43, 70%, 50%)"
+    },
+    {
+      "id": "hack",
+      "label": "hack",
+      "value": 275,
+      "color": "hsl(165, 70%, 50%)"
+    },
+    {
+      "id": "java",
+      "label": "java",
+      "value": 202,
+      "color": "hsl(135, 70%, 50%)"
+    },
+    {
+      "id": "javascript",
+      "label": "javascript",
+      "value": 443,
+      "color": "hsl(199, 70%, 50%)"
+    },
+    {
+      "id": "python",
+      "label": "python",
+      "value": 594,
+      "color": "hsl(181, 70%, 50%)"
+    },
+    {
+      "id": "php",
+      "label": "php",
+      "value": 219,
+      "color": "hsl(357, 70%, 50%)"
+    },
+    {
+      "id": "sass",
+      "label": "sass",
+      "value": 36,
+      "color": "hsl(313, 70%, 50%)"
+    },
+    {
+      "id": "elixir",
+      "label": "elixir",
+      "value": 271,
+      "color": "hsl(179, 70%, 50%)"
+    },
+    {
+      "id": "stylus",
+      "label": "stylus",
+      "value": 427,
+      "color": "hsl(334, 70%, 50%)"
+    },
+    {
+      "id": "c",
+      "label": "c",
+      "value": 530,
+      "color": "hsl(147, 70%, 50%)"
+    },
+    {
+      "id": "scala",
+      "label": "scala",
+      "value": 39,
+      "color": "hsl(184, 70%, 50%)"
+    },
+    {
+      "id": "lisp",
+      "label": "lisp",
+      "value": 13,
+      "color": "hsl(344, 70%, 50%)"
+    },
+    {
+      "id": "haskell",
+      "label": "haskell",
+      "value": 35,
+      "color": "hsl(122, 70%, 50%)"
+    },
+    {
+      "id": "ruby",
+      "label": "ruby",
+      "value": 240,
+      "color": "hsl(42, 70%, 50%)"
+    },
+    {
+      "id": "rust",
+      "label": "rust",
+      "value": 549,
+      "color": "hsl(236, 70%, 50%)"
+    }
+  ]
